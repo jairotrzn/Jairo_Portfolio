@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "name": "Nuxt",
+      "link": "https://nuxt.com/",
+      "logo": "SvgoNuxtColor"
+    },
+    {
+      "name": "Vue",
+      "link": "https://vuejs.org/",
+      "logo": "SvgoVueColor"
+    },
+    {
+      "name": "Git-Hub",
+      "link": "https://docs.github.com/es",
+      "logo": "SvgoNestColor"
+    },
+    {
+      "name": "Android",
+      "link": "https://developer.android.com/develop?hl=es-419",
+      "logo": "SvgoTailwindColor"
+    },
+    {
+      "name": "Firebase",
+      "link": "https://firebase.google.com/docs/build?authuser=0&hl=es",
+      "logo": "SvgoPrismaColor"
+    },
+    {
+      "name": "Kotlin",
+      "link": "https://kotlinlang.org/docs/home.html",
+      "logo": "SvgoVercel"
+    },
+    {
+      "name": "Java",
+      "link": "https://docs.oracle.com/en/java/",
+      "logo": "SvgoLinearColor"
+    },
+    {
+      "name": "Docker",
+      "link": "https://docs.docker.com/",
+      "logo": "SvgoArcColor"
+    },
+    {
+      "name": "Jira",
+      "link": "https://www.atlassian.com/software/jira",
+      "logo": "SvgoRaycastColor"
+    },
+    {
+      "name": "Java Script",
+      "link": "https://devdocs.io/javascript/",
+      "logo": "SvgoNotionColor"
+    },
+    {
+      "name": "Linux",
+      "link": "https://www.kernel.org/doc/html/v4.10/index.html",
+      "logo": "SvgoCronColor"
+    }
+  ]
+}

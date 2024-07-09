@@ -1,0 +1,41 @@
+{
+  "title": "FAQ",
+  "subtitle": "Frequently Asked Questions",
+  "faqQuestions": [
+    {
+      "title": "Professional Experience",
+      "questions": [
+        {
+          "title": "How many years of experience do you have as a developer?",
+          "answer": "Combining professional experience with voluntary projects, I have 3 years of experience as a developer."
+        },
+        {
+          "title": "How many years of experience do you have in cybersecurity?",
+          "answer": "Currently, I do not have professional experience in the field of cybersecurity beyond reviews and tests performed on my own code."
+        }
+      ]
+    },
+    {
+      "title": "Salary Range",
+      "questions": [
+        {
+          "title": "What salary range are you willing to work in?",
+          "answer": "If the job is as a developer, we could range from 22K to 25K. In the case of cybersecurity, since I am just starting out, the range would be from 20K to 22K."
+        }
+      ]
+    },
+    {
+      "title": "Personal",
+      "questions": [
+        {
+          "title": "What do you like most about this job?",
+          "answer": "I love being able to learn new things and create from scratch, as well as analyzing old projects and understanding their workings. Another thing I like about this job is the constant need to stay updated, which presents ongoing challenges for me."
+        },
+        {
+          "title": "Hobbies outside of work?",
+          "answer": "I am passionate about what I do, so I usually spend time working on personal projects or conducting small tests with technologies that catch my eye. I'm also a big sports fan and often go to the gym."
+        }
+      ]
+    }
+  ]
+}

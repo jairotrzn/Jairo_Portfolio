@@ -1,0 +1,41 @@
+{
+  "title": "FAQ",
+  "subtitle": "Preguntas frecuentes",
+  "faqQuestions": [
+    {
+      "title": "Experiencia Profesional",
+      "questions": [
+        {
+          "title": "¿Cuántos años tienes de experiencia como desarrollador?",
+          "answer": "Sumando la experiencia profesional con proyectos voluntarios realizados, tengo 3 años de experiencia como desarrollador."
+        },
+        {
+          "title": "¿Cuántos años tienes de experiencia en ciberseguridad?",
+          "answer": "Actualmente no cuento con experiencia profesional en el campo de la ciberseguridad más allá de las revisiones y pruebas realizadas en mi propio código."
+        }
+      ]
+    },
+    {
+      "title": "Rango salarial",
+      "questions": [
+        {
+          "title": "¿En qué rango salarial estás dispuesto a trabajar?",
+          "answer": "Si el trabajo a desempeñar es como desarrollador, podríamos movernos en un rango de 22K - 25K. En caso de ser en ciberseguridad, dado que estoy iniciándome, el rango sería de 20K - 22K."
+        }
+      ]
+    },
+    {
+      "title": "Personal",
+      "questions": [
+        {
+          "title": "¿Qué es lo que más te gusta de este trabajo?",
+          "answer": "Me encanta poder aprender cosas nuevas y crear desde cero, así como analizar proyectos antiguos y entender su funcionamiento. Otra cosa que me gusta de este trabajo es la necesidad continua de mantenerse actualizado, lo cual presenta retos constantes para mí."
+        },
+        {
+          "title": "¿Pasatiempos fuera del trabajo?",
+          "answer": "Me apasiona lo que hago, por lo que suelo dedicar tiempo a trabajar en proyectos personales o hacer pequeñas pruebas con tecnologías que me llaman la atención. También soy un gran aficionado a los deportes y voy a menudo al gimnasio."
+        }
+      ]
+    }
+  ]
+}
